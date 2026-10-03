@@ -1,10 +1,39 @@
 .black{
 
-   
+   padding-top: 100px;
     color: black;
 }
 
 
 .navbar{
     background-color: rgb(245, 5, 117);
+    height: 90px;
+}
+
+.logo{
+    height: 250%;
+}
+
+
+.imagezz{
+    padding-top: 30px;
+}
+
+.mrslady{
+
+    height: 90%;
+    width: 90%;
+}
+
+.nav{
+
+    padding-top: 20px;
+    font-size: 15px;
+    
+}
+
+
+.arkell{
+
+    color: deeppink;
 }
